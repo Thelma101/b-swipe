@@ -1,0 +1,9 @@
+node_modules
+.next
+.env*.local
+.git
+.vscode
+*.md
+!README.md
+CONTRIBUTING.md
+SHOWCASE.md
